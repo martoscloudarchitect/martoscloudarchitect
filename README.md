@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Diego Martos, a Solutions Architect with past experience in large network management.
+# Welcome to my professional playground!
+- 👋 Hi, I’m Diego Martos, a Solutions Architect with past experience in large network management, and today focused in helping companies to mature in the SMB Space.
 - 👀 I’m interested in keep my curiosity as an engineer building new things, fixing things to make it better and more efficient.
 - 🌱 I’m currently learning Azure Artificial Inteligence and Architecture Management automation with Biceps.
 - 💞️ I’m looking to collaborate on any topic related to Cloud Computing (focus on Azure)
